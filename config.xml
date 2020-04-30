@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.hyzrgames.gbs12"
+    versionCode = "10"
+    version     = "1.2" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Get Buff Simulator</name>
+
+  <description>Welcome to Get Buff Simulator! Get MEGA BUFF and become the Buffest Scratch Cat in the World!
+Press the (+0.50 Strength) button to start getting strength. if you get over 50 strength, you can rebirth, and get more strength each click! if you really want to reset, press the reset button and reply if you want to reset.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Made by Hyzr Games!</description>
+
+  <author href="https://scratch.mit.edu/users/abcdefghijklmnopqr20/" email="newtristanchannel@gmail.com">
+      Tristan Wentworth
+  </author>
+<icon src="costume1.svg" 
+</widget>
