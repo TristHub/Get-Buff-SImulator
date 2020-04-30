@@ -11,11 +11,10 @@
 
   <description>Welcome to Get Buff Simulator! Get MEGA BUFF and become the Buffest Scratch Cat in the World!
 Press the (+0.50 Strength) button to start getting strength. if you get over 50 strength, you can rebirth, and get more strength each click! if you really want to reset, press the reset button and reply if you want to reset.
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 Made by Hyzr Games!</description>
 
   <author href="https://scratch.mit.edu/users/abcdefghijklmnopqr20/" email="newtristanchannel@gmail.com">
       Tristan Wentworth
   </author>
-<icon src="costume1.svg" 
+<icon src="costume1.svg" />
 </widget>
