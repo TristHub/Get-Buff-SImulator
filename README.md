@@ -1,10 +1,8 @@
-# Get Buff Simulator
-Welcome to the Get Buff Simulator ***Github Repository***! These are the **open sourced** files for the **Get Buff Simulator** game.  
+# Flappy Parrot
+Welcome to the Flappy Parrot ***Github Repository***! These are the **open sourced** files for the **Flappy Parrot** game.  
 
-## What is Get Buff Simulator?
-###### Get Buff Simulator is a game where you try to get as buff as possible, and become the buffest scratch cat in the world!
+## What is Flappy Parrot?
+###### Flappy Parrot is a game where you try to dodge pipes, and use your lit skills!
 
-## How do I download it?
-###### You just have to go to http://install.gbsdocs.epizy.com, Choose your system/type of project, and done!
-
-## For more info, go to [The Wiki](https://www.github.com/TristHub/Get-Buff-Simulator/wiki)
+## How and where do I play it?
+###### You just have to go to [This Link](https://flappygames.itch.io/flappyparrot). Press Space to dodge.
