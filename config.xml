@@ -10,4 +10,5 @@
   <name>Flappy Parrot</name>
 
   <description>Avoid Pipes and get a highscore!</description>
+    <icon src="icon.png" />
 </widget>
